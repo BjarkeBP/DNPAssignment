@@ -1,0 +1,274 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\bjark\\RiderProjects\\DNPAssignment\\BlazorWASM\\BlazorWASM.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\bjark\\RiderProjects\\DNPAssignment\\BlazorWASM\\BlazorWASM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bjark\\RiderProjects\\DNPAssignment\\BlazorWASM\\BlazorWASM.csproj",
+        "projectName": "BlazorWASM",
+        "projectPath": "C:\\Users\\bjark\\RiderProjects\\DNPAssignment\\BlazorWASM\\BlazorWASM.csproj",
+        "packagesPath": "C:\\Users\\bjark\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bjark\\RiderProjects\\DNPAssignment\\BlazorWASM\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bjark\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\bjark\\RiderProjects\\DNPAssignment\\HttpClients\\HttpClients.csproj": {
+                "projectPath": "C:\\Users\\bjark\\RiderProjects\\DNPAssignment\\HttpClients\\HttpClients.csproj"
+              },
+              "C:\\Users\\bjark\\RiderProjects\\DNPAssignment\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\bjark\\RiderProjects\\DNPAssignment\\Shared\\Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.Authorization": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.1, 6.0.1]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\bjark\\RiderProjects\\DNPAssignment\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bjark\\RiderProjects\\DNPAssignment\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\bjark\\RiderProjects\\DNPAssignment\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\bjark\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bjark\\RiderProjects\\DNPAssignment\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bjark\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bjark\\RiderProjects\\DNPAssignment\\HttpClients\\HttpClients.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bjark\\RiderProjects\\DNPAssignment\\HttpClients\\HttpClients.csproj",
+        "projectName": "HttpClients",
+        "projectPath": "C:\\Users\\bjark\\RiderProjects\\DNPAssignment\\HttpClients\\HttpClients.csproj",
+        "packagesPath": "C:\\Users\\bjark\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bjark\\RiderProjects\\DNPAssignment\\HttpClients\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bjark\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\bjark\\RiderProjects\\DNPAssignment\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\bjark\\RiderProjects\\DNPAssignment\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\bjark\\RiderProjects\\DNPAssignment\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\bjark\\RiderProjects\\DNPAssignment\\Shared\\Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bjark\\RiderProjects\\DNPAssignment\\Shared\\Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bjark\\RiderProjects\\DNPAssignment\\Shared\\Shared.csproj",
+        "projectName": "Shared",
+        "projectPath": "C:\\Users\\bjark\\RiderProjects\\DNPAssignment\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\bjark\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bjark\\RiderProjects\\DNPAssignment\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bjark\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\bjark\\RiderProjects\\DNPAssignment\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\bjark\\RiderProjects\\DNPAssignment\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

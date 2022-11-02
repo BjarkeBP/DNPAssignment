@@ -1,0 +1,17 @@
+C:\Users\bjark\RiderProjects\DNPAssignment\HttpClients\bin\Debug\net6.0\HttpClients.deps.json
+C:\Users\bjark\RiderProjects\DNPAssignment\HttpClients\bin\Debug\net6.0\HttpClients.dll
+C:\Users\bjark\RiderProjects\DNPAssignment\HttpClients\bin\Debug\net6.0\ref\HttpClients.dll
+C:\Users\bjark\RiderProjects\DNPAssignment\HttpClients\bin\Debug\net6.0\HttpClients.pdb
+C:\Users\bjark\RiderProjects\DNPAssignment\HttpClients\bin\Debug\net6.0\Domain.dll
+C:\Users\bjark\RiderProjects\DNPAssignment\HttpClients\bin\Debug\net6.0\Domain.pdb
+C:\Users\bjark\RiderProjects\DNPAssignment\HttpClients\obj\Debug\net6.0\HttpClients.csproj.AssemblyReference.cache
+C:\Users\bjark\RiderProjects\DNPAssignment\HttpClients\obj\Debug\net6.0\HttpClients.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bjark\RiderProjects\DNPAssignment\HttpClients\obj\Debug\net6.0\HttpClients.AssemblyInfoInputs.cache
+C:\Users\bjark\RiderProjects\DNPAssignment\HttpClients\obj\Debug\net6.0\HttpClients.AssemblyInfo.cs
+C:\Users\bjark\RiderProjects\DNPAssignment\HttpClients\obj\Debug\net6.0\HttpClients.csproj.CoreCompileInputs.cache
+C:\Users\bjark\RiderProjects\DNPAssignment\HttpClients\obj\Debug\net6.0\HttpClients.csproj.CopyComplete
+C:\Users\bjark\RiderProjects\DNPAssignment\HttpClients\obj\Debug\net6.0\HttpClients.dll
+C:\Users\bjark\RiderProjects\DNPAssignment\HttpClients\obj\Debug\net6.0\ref\HttpClients.dll
+C:\Users\bjark\RiderProjects\DNPAssignment\HttpClients\obj\Debug\net6.0\HttpClients.pdb
+C:\Users\bjark\RiderProjects\DNPAssignment\HttpClients\bin\Debug\net6.0\Shared.dll
+C:\Users\bjark\RiderProjects\DNPAssignment\HttpClients\bin\Debug\net6.0\Shared.pdb
