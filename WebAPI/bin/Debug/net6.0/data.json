@@ -106,6 +106,26 @@
         "UserName": "Bjarke",
         "PassWord": null
       }
+    },
+    {
+      "Id": 9,
+      "Title": "123",
+      "Body": "123",
+      "Owner": {
+        "Id": 3,
+        "UserName": "Bjarke123",
+        "PassWord": "123@Test"
+      }
+    },
+    {
+      "Id": 10,
+      "Title": "Hello its me",
+      "Body": "oof",
+      "Owner": {
+        "Id": 3,
+        "UserName": "Bjarke123",
+        "PassWord": "123@Test"
+      }
     }
   ]
 }

@@ -39,6 +39,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2F24oo86LNeTFc48KdwZWk0RF2R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -148,14 +149,26 @@
       <workItem from="1665562597055" duration="1003000" />
       <workItem from="1665740546979" duration="6041000" />
       <workItem from="1666683964019" duration="561000" />
-      <workItem from="1666686484567" duration="51658000" />
+      <workItem from="1666686484567" duration="52432000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>

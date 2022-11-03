@@ -24,6 +24,11 @@
       "Id": 5,
       "UserName": "12312",
       "PassWord": "1231@T"
+    },
+    {
+      "Id": 6,
+      "UserName": "Bjarke1234",
+      "PassWord": "hfe@T"
     }
   ],
   "Posts": [
@@ -125,6 +130,16 @@
         "Id": 3,
         "UserName": "Bjarke123",
         "PassWord": "123@Test"
+      }
+    },
+    {
+      "Id": 11,
+      "Title": "TEST 123",
+      "Body": "dette er en test",
+      "Owner": {
+        "Id": 6,
+        "UserName": "Bjarke1234",
+        "PassWord": "hfe@T"
       }
     }
   ]
